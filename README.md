@@ -20,3 +20,7 @@
 ## Clase numero 8:
  - ### async/callbackHell.js: 
    Callback Hell: refactorizar o sufrir
+
+## Clase numero 9:
+ - ### async/promises.js: 
+   Promesas
