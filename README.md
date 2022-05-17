@@ -4,7 +4,6 @@
  - ### conceptos/monohilo.js: 
    Monohilo: implicaciones en diseño y seguridad
 
-
 ## Clase numero 5:
  - ### conceptos/entorno.js: 
    Configurar las variables de entorno en Node.js
@@ -28,3 +27,7 @@
 ## Clase numero 10:
  - ### async/asyncAwait.js: 
    Async/await
+
+## Clase numero 11:
+ - ### modulos/globales.js: 
+   Globals
