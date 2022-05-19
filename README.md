@@ -31,3 +31,7 @@
 ## Clase numero 11:
  - ### modulos/globales.js: 
    Globals
+
+## Clase numero 12:
+ - ### modulos/fs.js, archivo.txt: 
+   File system
