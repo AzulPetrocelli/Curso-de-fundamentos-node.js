@@ -43,3 +43,7 @@
 ## Clase numero 14:
  - ### modulos/errores.js: 
     Errores (try / catch)
+
+## Clase numero 15:
+ - ### modulos/procesoHijo.js: 
+    Procesos hijo
