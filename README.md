@@ -39,3 +39,7 @@
 ## Clase numero 13:
  - ### modulos/consola.js: 
     Console
+
+## Clase numero 14:
+ - ### modulos/errores.js: 
+    Errores (try / catch)
