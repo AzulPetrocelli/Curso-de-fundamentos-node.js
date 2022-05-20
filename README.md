@@ -2,11 +2,11 @@
 
 ## Clase numero 4:
  - ### conceptos/monohilo.js: 
-   Monohilo: implicaciones en diseño y seguridad
+    Monohilo: implicaciones en diseño y seguridad
 
 ## Clase numero 5:
  - ### conceptos/entorno.js: 
-   Configurar las variables de entorno en Node.js
+    Configurar las variables de entorno en Node.js
 
 ## Clase numero 6:
  - ### conceptos/monohilo.js: 
@@ -14,24 +14,28 @@
 
 ## Clase numero 7:
  - ### async/callback.js: 
-   Callbacks
+    Callbacks
 
 ## Clase numero 8:
  - ### async/callbackHell.js: 
-   Callback Hell: refactorizar o sufrir
+    Callback Hell: refactorizar o sufrir
 
 ## Clase numero 9:
  - ### async/promises.js: 
-   Promesas
+    Promesas
 
 ## Clase numero 10:
  - ### async/asyncAwait.js: 
-   Async/await
+    Async/await
 
 ## Clase numero 11:
  - ### modulos/globales.js: 
-   Globals
+    Globals
 
 ## Clase numero 12:
  - ### modulos/fs.js, archivo.txt: 
-   File system
+    File system
+
+## Clase numero 13:
+ - ### modulos/consola.js: 
+    Console
