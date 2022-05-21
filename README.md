@@ -59,3 +59,7 @@
 ## Clase numero 19:
  - ### modulos/process.js: 
     Process
+
+## Clase numero 20:
+ - ### paquetes/npm, index.js, package-lock.json, package.json, /node_modules: 
+    Gestión de paquetes: NPM y package.json
