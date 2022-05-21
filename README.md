@@ -51,3 +51,7 @@
 ## Clase numero 17:
  - ### modulos/http.js: 
     HTTP
+
+## Clase numero 18:
+ - ### modulos/os.js: 
+    OS
