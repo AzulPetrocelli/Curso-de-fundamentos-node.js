@@ -55,3 +55,7 @@
 ## Clase numero 18:
  - ### modulos/os.js: 
     OS
+
+## Clase numero 19:
+ - ### modulos/process.js: 
+    Process
