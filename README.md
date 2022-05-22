@@ -67,3 +67,7 @@
 ## Clase numero 21:
  - ### paquetes/modulo/index.js,modulo.js y  paquetes/modulo/es6/index.mjs, modulo.mjs: 
     Construyendo módulos: Require e Import
+
+## Clase numero 22:
+   ### paquetes/utiles/moment.js, bcrypt.js:
+      Módulos útiles
