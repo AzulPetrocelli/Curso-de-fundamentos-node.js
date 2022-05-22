@@ -63,3 +63,7 @@
 ## Clase numero 20:
  - ### paquetes/npm, index.js, package-lock.json, package.json, /node_modules: 
     Gestión de paquetes: NPM y package.json
+
+## Clase numero 21:
+ - ### paquetes/modulo/index.js,modulo.js y  paquetes/modulo/es6/index.mjs, modulo.mjs: 
+    Construyendo módulos: Require e Import
