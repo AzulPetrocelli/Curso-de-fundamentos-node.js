@@ -69,5 +69,9 @@
     Construyendo módulos: Require e Import
 
 ## Clase numero 22:
-   ### paquetes/utiles/moment.js, bcrypt.js:
+   - ### paquetes/utiles/moment.js, bcrypt.js:
       Módulos útiles
+
+## Clase numero 24:
+   - ### memoria/buffer.js:
+      Buffers
