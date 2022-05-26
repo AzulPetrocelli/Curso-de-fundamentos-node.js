@@ -8,10 +8,6 @@
  - ### conceptos/entorno.js: 
     Configurar las variables de entorno en Node.js
 
-## Clase numero 6:
- - ### conceptos/monohilo.js: 
-   Herramientas para ser más felices: Nodemon y PM2
-
 ## Clase numero 7:
  - ### async/callback.js: 
     Callbacks
@@ -75,3 +71,7 @@
 ## Clase numero 24:
    - ### memoria/buffer.js:
       Buffers
+
+## Clase numero 25:
+   - ### memoria/stream.js:
+      Streams
