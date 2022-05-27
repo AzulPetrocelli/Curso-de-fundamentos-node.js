@@ -75,3 +75,7 @@
 ## Clase numero 25:
    - ### memoria/stream.js:
       Streams
+
+## Clase numero 26:
+   - ### trucos/benchmarking.js:
+      Benchmarking (console time y timeEnd)
