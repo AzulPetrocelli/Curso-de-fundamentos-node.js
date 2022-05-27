@@ -8,7 +8,8 @@
 
       switch (request.url){
           case '/hola':
-              response.write('Hola que tal');
+              let saludo = hola()
+              response.write(saludo);
               response.end();
               break;
 
@@ -26,4 +27,7 @@
       response.end() */
   }
 
+  function hola () {
+      return 'Hola, que tal?'
+  }
   console.log('Escuchando http en el puerto 3000');

@@ -79,3 +79,7 @@
 ## Clase numero 26:
    - ### trucos/benchmarking.js:
       Benchmarking (console time y timeEnd)
+
+## Clase numero 27:
+   - ### modulos/http.js:
+      Debugger
