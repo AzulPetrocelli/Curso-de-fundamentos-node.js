@@ -83,3 +83,7 @@
 ## Clase numero 27:
    - ### modulos/http.js:
       Debugger
+
+## Clase numero 28:
+   - ### modulos/errorFirst.js:
+      Error First Callbacks
