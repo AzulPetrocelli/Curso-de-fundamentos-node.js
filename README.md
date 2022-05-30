@@ -87,3 +87,7 @@
 ## Clase numero 28:
    - ### modulos/errorFirst.js:
       Error First Callbacks
+
+## Clase numero 29:
+   - ### herramientas/scraping/index.js:
+      Scraping
