@@ -91,3 +91,11 @@
 ## Clase numero 29:
    - ### herramientas/scraping/index.js:
       Scraping
+
+## Clase numero 30:
+   - ### herramientas/automatizacion/.:
+       Automatizacion de procesos
+
+## Clase numero 31:
+   - ### herramientas/electron/.:
+       Aplicaciones de escritorio
